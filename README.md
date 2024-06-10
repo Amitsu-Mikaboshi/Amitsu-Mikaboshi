@@ -1,6 +1,6 @@
 ![logo](https://media.tenor.com/-SV9TjUGabMAAAAC/hacker-python.gif)
 
-<h1 align="center">Ohayo!! 👋, Watashino namae wa Amitsu Mikaboshi</h1>
+<h1 align="center">Ohayo!! 👋, Watashino namae wa Amitsu Mikaboshi desu.</h1>
 <h3 align="center">Ready to die. Kill me asap</h3>
 <img align = "right" src = "https://media.tenor.com/Pm4S40MGsIQAAAAM/hacker-hackerman.gif">
 
